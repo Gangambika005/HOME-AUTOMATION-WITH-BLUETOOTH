@@ -85,5 +85,6 @@ Conclusion :
 Task 2 demonstrates how to use Arduino UNO and serial communication to control multiple devices via user commands. Even though a Bluetooth module was not used in simulation, the logic is identical to how a real system would operate when paired with a Bluetooth device. The project improves understanding of multi-device control, command parsing, and interactive embedded design — all crucial concepts in modern IoT and home automation systems.
 
 "OUTPUT" :
+![Image](https://github.com/user-attachments/assets/6d0147af-8373-4257-8d1c-e543fb258785)
 
 
