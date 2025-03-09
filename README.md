@@ -13,6 +13,7 @@
 "MENTOR" : NEELA SANTHOSH
 
 "DISCRIPTION" : 
+
 Introduction
 
 Task 2 focuses on designing a basic home automation system where devices (represented by LEDs) are controlled via serial commands using an Arduino UNO. Although a Bluetooth module like HC-05 is used in real-world scenarios, this task simulates Bluetooth communication using the Serial Monitor in the Arduino IDE or Tinkercad. This approach simplifies development while still demonstrating core embedded system concepts such as digital output control, serial communication, and multi-device automation.
